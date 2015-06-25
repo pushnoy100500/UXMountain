@@ -4,6 +4,7 @@ html, body, .wrapper {
 	background: linear-gradient(to top, #1B3A68, #005B87);
 	height: 100%;
 	font-size: 14px;
+	font-family: "abril-text";
 }
 
 .row {
@@ -20,7 +21,9 @@ html, body, .wrapper {
 	margin-right: 30px;
 	font-size: 2em;
 	margin-bottom: 50px;
+	width: 100%;
 }
+
 .aboutUS {
 	font-size: 1.5em;
 	color: #fff;
@@ -28,6 +31,7 @@ html, body, .wrapper {
 	width: 80%;
 	margin: auto;
 }
+
 .bigLogo {
 	display: block;
 	margin: auto;
@@ -40,6 +44,11 @@ html, body, .wrapper {
 	color: #fff;
 	width: 100%;
 	text-align: center;
+}
+
+.textWidth{
+	width: 50%;
+	margin: auto;
 }
 
 @media (max-width: 400px) {
