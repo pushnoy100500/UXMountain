@@ -63,3 +63,8 @@ html, body, .wrapper {
 		font-size: 1.2em;
 	}
 }
+@media (max-width: 450px) {
+	.aboutUS {
+		font-size: 1.3em;
+	}
+}
