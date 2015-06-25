@@ -1,1 +1,2 @@
 $('.aboutUS').widowFix();
+$('.bigHeading').widowFix();
